@@ -1,4 +1,4 @@
-//4x4 ΖΫΑρ °ΤΐΣ
+//4x4 Γ†Γ›ΓΓ± Β°Γ”Γ€Γ“
 #include "Ranking.h"
 extern int playFifteenPuzzle();
 void main()
